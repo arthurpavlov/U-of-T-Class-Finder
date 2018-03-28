@@ -1,0 +1,26 @@
+{
+    "route_id": "1",
+    "paths" : [
+        {
+            "origin" : "40 St George St, Toronto, ON M5S 2E4",
+            "destination" : "255 Huron Street TORONTO, ON, Canada M5S 1A7",
+            "desired_departure_time" : "1520089200",
+            "desired_arrival_time" : "1520089800",
+            "mode" : "walking"
+        },
+        {
+            "origin" : "255 Huron Street TORONTO, ON, Canada M5S 1A7",
+            "destination" : "81 St. Mary Street TORONTO, ON, Canada M5S 1J4",
+            "desired_departure_time" : "1520092800",
+            "desired_arrival_time" : "1520093400",
+            "mode" : "walking"
+        },
+        {
+            "origin" : "81 St. Mary Street TORONTO, ON, Canada M5S 1J4",
+            "destination" : "144 College Street TORONTO, ON, Canada M5S 3M2",
+            "desired_departure_time" : "1520096400",
+            "desired_arrival_time" : "1520097000",
+            "mode" : "walking"
+        }
+    ]
+}

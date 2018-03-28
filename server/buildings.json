@@ -1,0 +1,854 @@
+{
+	"buildings": [
+	{
+		"name": "Annesley Hall",
+		"code": "AN",
+		"address": "95 Queen's Park, M5S 2C7"
+	},
+	{
+		"name": "Anthropology Building",
+		"code": "AP",
+		"address": "19 Russell Street, M5S 2S2"
+	},
+	{
+		"name": "Astronomy & Astrophysics Building",
+		"code": "AB",
+		"address": "50 St. George Street, M5S 3H4"
+	},
+	{
+		"name": "Back Campus Fields",
+		"code": "BK",
+		"address": "20 Tower Road"
+	},
+	{
+		"name": "Bahen Centre for Information Technology",
+		"code": "BA",
+		"address": "40 St. George Street, M5S 2E4"
+	},
+	{
+		"name":" Bancroft Building",
+		"code": "BF",
+		"address": "4 Bancroft Avenue, M5S 1C1"
+	},
+	{
+		"name": "Banting Institute",
+		"code": "BI",
+		"address": "100 College Street, M5G 1L5"
+	},
+	{
+		"name": "Best Institute",
+		"code": "CB",
+		"address": "112 College St, M5G 1L6"
+	},
+	{
+		"name": "Birge-Carnegie Library",
+		"code": "BC",
+		"address": "75a Queen's Park, M5S 1K7"
+	},
+	{
+		"name": "Bloor Street West-371",
+		"code": "FE",
+		"address": "371 Bloor Street West, M5S 2R7"
+	},
+	{
+		"name": "Borden Building North",
+		"code": "NB",
+		"address": "563 Spadina Crescent, M5S 2J7"
+	},
+	{
+		"name": "Borden Building South",
+		"code": "SB",
+		"address": "487 Spadina Crescent, M5S 2T4"
+	},
+	{
+		"name": "Brennan Hall",
+		"code": "BR",
+		"address": "81 St. Mary Street, M5S 1J4"
+	},
+	{
+		"name": "Burwash Hall",
+		"code": "BW",
+		"address": "89 Charles Street West, M5S 1K6"
+	},
+	{
+		"name": "Burwash Residence (Lower Houses)",
+		"code": "LB",
+		"address": "89 Charles Street West, M5S 1K6"
+	},
+	{
+		"name": "Burwash Residence (Upper Houses)",
+		"code": "UB",
+		"address": "89 Charles Street West, M5S 1K6"
+	},
+	{
+		"name": "C. David Naylor Building",
+		"code": "NL",
+		"address": "6 Queen's Park Crescent West, M5S 3H2"
+	},
+	{
+		"name": "Canadiana Gallery",
+		"code": "CG",
+		"address": "14 Queen's Park Crescent West, M5S 3K9"
+	},
+	{
+		"name": "Carr Hall",
+		"code": "CR",
+		"address": "100 St. Joseph Street, M5S 1J4"
+	},
+	{
+		"name": "Central Steam Plant",
+		"code": "ST",
+		"address": "17 Russell Street, M5S 2S2"
+	},
+	{
+		"name": "Charles St. West-30",
+		"code": "C1",
+		"address": "30 Charles Street West, M4Y 1R5"
+	},
+	{
+		"name": "Charles St. West-35",
+		"code": "C2",
+		"address": "35 Charles Street West, M4Y 1R6"
+	},
+	{
+		"name": "Charles Street West-65",
+		"code": "LH",
+		"address": "65 Charles Street West, M5S 1K5"
+	},
+	{
+		"name": "Chestnut Residence and Conference Centre",
+		"code": "CN",
+		"address": "89 Chestnut Street, M5G 1R1"
+	},
+	{
+		"name": "Clara Benson Building",
+		"code": "BN",
+		"address": "320 Huron Street, M5S 3J7"
+	},
+	{
+		"name": "Claude T. Bissell Building",
+		"code": "BL",
+		"address": "140 St. George Street, M5S 3G6"
+	},
+	{
+		"name": "College Street-229",
+		"code": "CZ",
+		"address": "229 College Street, M5T 1R4"
+	},
+	{
+		"name": "College Street-88",
+		"code": "ZC",
+		"address": "88 College Street, M5G 1L4"
+	},
+	{
+		"name": "Communication House",
+		"code": "CX",
+		"address": "167 College Street"
+	},
+	{
+		"name": "Convocation Hall",
+		"code": "CH",
+		"address": "31 King's College Circle, M5S 1A1"
+	},
+	{
+		"name": "Cumberland House",
+		"code": "CU",
+		"address": "33 St. George Street, M5S 2E3"
+	},
+	{
+		"name": "D.L. Pratt Building",
+		"code": "PT",
+		"address": "6 King's College Road, M5S 3H5"
+	},
+	{
+		"name": "Daniels Building",
+		"code": "DA",
+		"address": "1 Spadina Crescent, M5S 2J5"
+	},
+	{
+		"name": "Dentistry Building",
+		"code": "DN",
+		"address": "124 Edward Street, M5G 1G6"
+	},
+	{
+		"name": "E.J. Pratt Library",
+		"code": "PR",
+		"address": "71 Queen's Park Crescent East, M5S 1K7"
+	},
+	{
+		"name": "Early Learning Centre",
+		"code": "ER",
+		"address": "7 Glen Morris Street, M5S 1H9"
+	},
+	{
+		"name": "Earth Sciences Centre",
+		"code": "ES",
+		"address": "33 Willcocks Street, M5S 3B3"
+	},
+	{
+		"name": "Edward Johnson Building",
+		"code": "EJ",
+		"address": "80 Queen's Park, M5S 2C5"
+	},
+	{
+		"name": "Edward Street-123",
+		"code": "ED",
+		"address": "123 Edward Street"
+	},
+	{
+		"name": "Electrometallurgy Lab",
+		"code": "EL",
+		"address": "11 King's College Road (rear), M5S 3J2"
+	},
+	{
+		"name": "Elmsley Hall",
+		"code": "EH",
+		"address": "81 St. Mary Street, M5S 1J4"
+	},
+	{
+		"name": "Emmanuel College",
+		"code": "EM",
+		"address": "75 Queen's Park, M5S 1K7"
+	},
+	{
+		"name": "Engineering Annex",
+		"code": "EA",
+		"address": "11 King's College Road, M5S 1A4"
+	},
+	{
+		"name": "Enrolment Services",
+		"code": "AD",
+		"address": "172 St. George Street, M5R 0A3"
+	},
+	{
+		"name": "Exam Centre",
+		"code": "EX",
+		"address": "255 McCaul Street, M5T 1W7"
+	},
+	{
+		"name": "Factor-Inwentash Faculty of Social Work",
+		"code": "SK",
+		"address": "246 Bloor Street West, M5S 1V4"
+	},
+	{
+		"name": "Faculty Club",
+		"code": "FC",
+		"address": "41 Willcocks Street, M5S 1C7"
+	},
+	{
+		"name": "Faculty of Law",
+		"code": "LW",
+		"address": "78 Queen's Park, M5S 2C5"
+	},
+	{
+		"name": "Falconer Hall",
+		"code": "FH",
+		"address": "84 Queen's Park, M5S 2C5"
+	},
+	{
+		"name": "Fasken Martineau Building",
+		"code": "LG",
+		"address": "655 Spadina Avenue, M5S 2H9"
+	},
+	{
+		"name": "Fields Inst for Research in Math Science",
+		"code": "FI",
+		"address": "222 College Street, M5T 3J1"
+	},
+	{
+		"name": "Fisher House",
+		"code": "FS",
+		"address": "59 Queen's Park Crescent East, M5S 2C4"
+	},
+	{
+		"name": "FitzGerald Building",
+		"code": "FG",
+		"address": "150 College Street, M5S 1A8"
+	},
+	{
+		"name": "Founders House",
+		"code": "BH",
+		"address": "1 Elmsley Place"
+	},
+	{
+		"name": "Future Centre for Engineering Innovation and Entrepreneurship",
+		"code": "CE",
+		"address": "55 St. George Street, M5S 2E5"
+	},
+	{
+		"name": "Gage Building",
+		"code": "GA",
+		"address": "223 College Street, M5T 1R4"
+	},
+	{
+		"name": "Galbraith Building",
+		"code": "GB",
+		"address": "35 St. George Street, M5S 1A4"
+	},
+	{
+		"name": "George Ignatieff Theatre",
+		"code": "GI",
+		"address": "15 Devonshire Place, M5S 1H8"
+	},
+	{
+		"name": "Gerald Larkin Building",
+		"code": "LA",
+		"address": "15 Devonshire Place, M5S 1H8"
+	},
+	{
+		"name": "Gerstein Science Information Centre in the Sigmund Samuel Library Bldg",
+		"code": "SM",
+		"address": "9 King's College Circle, M5S 3K1"
+	},
+	{
+		"name": "Gilson House",
+		"code": "GH",
+		"address": "8 Elmsley Place"
+	},
+	{
+		"name": "Goldring Centre for High Performance Sport",
+		"code": "GO",
+		"address": "100 Devonshire Place"
+	},
+	{
+		"name": "Goldring Student Centre",
+		"code": "GC",
+		"address": "150 Charles Street West, M5S 1K9"
+	},
+	{
+		"name": "Graduate House",
+		"code": "GD",
+		"address": "60 Harbord Street, M5S 1A1"
+	},
+	{
+		"name": "Graduate Students' Union",
+		"code": "GU",
+		"address": "16 Bancroft Avenue, M5S 1C1"
+	},
+	{
+		"name": "Hart House",
+		"code": "HH",
+		"address": "7 Hart House Circle, M5S 3H3"
+	},
+	{
+		"name": "Haultain Building",
+		"code": "HA",
+		"address": "170 College Street (rear of), M5S 3E3"
+	},
+	{
+		"name": "Health Sciences Building",
+		"code": "HS",
+		"address": "155 College Street, M5T 1P8"
+	},
+	{
+		"name": "Huron Street-215",
+		"code": "HU",
+		"address": "215 Huron Street, M5S 1A2"
+	},
+	{
+		"name": "Huron Street-370",
+		"code": "CA",
+		"address": "370 Huron Street, M5S 2G4"
+	},
+	{
+		"name": "Innis College",
+		"code": "IN",
+		"address": "2 Sussex Avenue, M5S 1J5"
+	},
+	{
+		"name": "Innis College Student Residence",
+		"code": "IS",
+		"address": "111 St. George Street, M5S 2E8"
+	},
+	{
+		"name": "Isabel Bader Theatre",
+		"code": "BT",
+		"address": "93 Charles St. West, M5S 1K9"
+	},
+	{
+		"name": "J. M. Kelly Library",
+		"code": "KL",
+		"address": "113 St. Joseph Street, M5S 1J4"
+	},
+	{
+		"name": "J. Robert S. Prichard Alumni House",
+		"code": "DR",
+		"address": "21 King's College Circle, M5S 3J3"
+	},
+	{
+		"name": "Jackman Humanities Building",
+		"code": "JH",
+		"address": "170 St. George Street, M5R 2M8"
+	},
+	{
+		"name": "John P. Robarts Library Building",
+		"code": "RL",
+		"address": "130 St. George Street, M5S 1A5"
+	},
+	{
+		"name": "Knox College",
+		"code": "KX",
+		"address": "59 St. George Street, M5S 2E6"
+	},
+	{
+		"name": "Koffler House",
+		"code": "KP",
+		"address": "569 Spadina Crescent, M5S 2J7"
+	},
+	{
+		"name": "Koffler Student Services Centre",
+		"code": "KS",
+		"address": "214 College Street, M5T 2Z9"
+	},
+	{
+		"name": "Lash Miller Chemical Laboratories",
+		"code": "LM",
+		"address": "80 St. George Street, M5S 3H6"
+	},
+	{
+		"name": "Lassonde Mining Building",
+		"code": "MB",
+		"address": "170 College Street, M5S 3E3"
+	},
+	{
+		"name": "Leighton Goldie McCarthy House",
+		"code": "WR",
+		"address": "45 Walmer Road, M5R 2X2"
+	},
+	{
+		"name": "Leslie L. Dan Pharmacy Building",
+		"code": "PB",
+		"address": "144 College Street, M5S 3M2"
+	},
+	{
+		"name": "Lillian Massey Building",
+		"code": "LI",
+		"address": "125 Queen's Park, M5S 2C7"
+	},
+	{
+		"name": "Loretto College",
+		"code": "LC",
+		"address": "70 St. Mary Street, M5S 1J3"
+	},
+	{
+		"name": "Louis B. Stewart Observatory",
+		"code": "SO",
+		"address": "12 Hart House Circle, M5S 3J9"
+	},
+	{
+		"name": "Luella Massey Studio Theatre",
+		"code": "GM",
+		"address": "4 Glen Morris Street, M5S 1J1"
+	},
+	{
+		"name": "Macdonald-Mowat House",
+		"code": "MM",
+		"address": "63 St. George Street, M5S 2Z9"
+	},
+	{
+		"name": "Margaret Addison Hall",
+		"code": "MG",
+		"address": "140 Charles Street West, M5S 1K9"
+	},
+	{
+		"name": "Maritain House",
+		"code": "MN",
+		"address": "6 Elmsley Place"
+	},
+	{
+		"name": "MARS 2",
+		"code": "M2",
+		"address": "661 University Avenue"
+	},
+	{
+		"name": "Massey College",
+		"code": "MA",
+		"address": "4 Devonshire Place, M5S 2E1"
+	},
+	{
+		"name": "Max Gluskin House",
+		"code": "GE",
+		"address": "150 St. George Street, M5S 3G7"
+	},
+	{
+		"name": "McCaul Street-254/256",
+		"code": "RM",
+		"address": "254-256 McCaul Street, M5T 1W5"
+	},
+	{
+		"name": "McCorkell House",
+		"code": "MZ",
+		"address": "2 Elmsley Place"
+	},
+	{
+		"name": "McLennan Physical Laboratories",
+		"code": "MP",
+		"address": "255 Huron Street, M5S 1A7"
+	},
+	{
+		"name": "McMurrich Building",
+		"code": "MR",
+		"address": "12 Queen's Park Crescent W, M5S 1S8"
+	},
+	{
+		"name": "Mechanical Engineering Building",
+		"code": "MC",
+		"address": "5 King's College Road, M5S 3G8"
+	},
+	{
+		"name": "Medical Sciences Building",
+		"code": "MS",
+		"address": "1 King's College Circle, M5S 1A8"
+	},
+	{
+		"name": "More House",
+		"code": "MH",
+		"address": "59 Queen's Park Crescent East, M5S 2C4"
+	},
+	{
+		"name": "Morrison Hall",
+		"code": "MO",
+		"address": "75 St. George Street, M5S 2E5"
+	},
+	{
+		"name": "Munk School of Global Affairs - Graham Library",
+		"code": "MU",
+		"address": "5 Devonshire Place, M5S 3K7"
+	},
+	{
+		"name": "Munk School of Global Affairs at the Observatory",
+		"code": "MK",
+		"address": "315 Bloor Street West, M5S 1A3"
+	},
+	{
+		"name": "Munk School of Global Affairs at Trinity",
+		"code": "MU",
+		"address": "1 Devonshire Place, M5S 3K7"
+	},
+	{
+		"name": "Muzzo Family Alumni Hall",
+		"code": "AH",
+		"address": "121 St. Joseph Street, M5S 1J4"
+	},
+	{
+		"name": "New College III",
+		"code": "NR",
+		"address": "45 Willcocks Street, M5S 1C7"
+	},
+	{
+		"name": "Nona Macdonald Visitors Centre",
+		"code": "VI",
+		"address": "25 King's College Circle, M5S 1A1"
+	},
+	{
+		"name": "North West Chiller Plant",
+		"code": "NW",
+		"address": "50 Sussex Avenue, M5S 1J7"
+	},
+	{
+		"name": "Northrop Frye Hall",
+		"code": "NF",
+		"address": "73 Queen's Park Crescent East, M5S 1K7"
+	},
+	{
+		"name": "Odette (Louis) Hall",
+		"code": "OH",
+		"address": "50 St. Joseph Street, M5S 1J4"
+	},
+	{
+		"name": "Old Admin Bldg",
+		"code": "OA",
+		"address": "263 McCaul Street, M5T 1W7"
+	},
+	{
+		"name": "Ontario Institute for Studies in Education",
+		"code": "OI",
+		"address": "252 Bloor Street West, M5S 1V6"
+	},
+	{
+		"name": "Phelan House",
+		"code": "PH",
+		"address": "3 Elmsley Place"
+	},
+	{
+		"name": "Queen's Park Crescent East-39",
+		"code": "ME",
+		"address": "39 Queen's Park Crescent East, M5S 2C3"
+	},
+	{
+		"name": "Queen's Park Crescent East-43",
+		"code": "XQ",
+		"address": "43 Queen's Park Crescent East, M5S 2C3"
+	},
+	{
+		"name": "Queen's Park Crescent East-59",
+		"code": "PI",
+		"address": "59 Queen's Park Crescent East, M5S 2C4"
+	},
+	{
+		"name": "Queen's Park Crsc. E.-39A",
+		"code": "ML",
+		"address": "39A Queen's Park Crsc. E, M5S 2C3"
+	},
+	{
+		"name": "Ramsay Wright Laboratories",
+		"code": "RW",
+		"address": "25 Harbord Street, M5S 3G5"
+	},
+	{
+		"name": "Regis College",
+		"code": "RG",
+		"address": "100 Wellesley Street West, M5S 1C5"
+	},
+	{
+		"name": "Rehabilitation Sciences Building",
+		"code": "RU",
+		"address": "500 University Avenue, M5G 1V7"
+	},
+	{
+		"name": "Rosebrugh Building",
+		"code": "RS",
+		"address": "164 College Street, M5S 3G9"
+	},
+	{
+		"name": "Rotman School of Management",
+		"code": "RT",
+		"address": "105 St. George Street, M5S 3E6"
+	},
+	{
+		"name": "Rowell Jackman Hall",
+		"code": "RJ",
+		"address": "85 Charles Street West, M5S 1K5"
+	},
+	{
+		"name": "Sam Sorbara Hall Student Residence",
+		"code": "SR",
+		"address": "70 St. Joseph Street"
+	},
+	{
+		"name": "Sandford Fleming Building",
+		"code": "SF",
+		"address": "10 King's College Road, M5S 3G4"
+	},
+	{
+		"name": "School of Continuing Studies",
+		"code": "CS",
+		"address": "158 St. George Street, M5S 2V8"
+	},
+	{
+		"name": "School of Graduate Studies",
+		"code": "GS",
+		"address": "65 St. George Street, M5S 2E5"
+	},
+	{
+		"name": "Sidney Smith Hall",
+		"code": "SS",
+		"address": "100 St. George Street, M5S 3G3"
+	},
+	{
+		"name": "Simcoe Hall",
+		"code": "SI",
+		"address": "27 King's College Circle, M5S 1A1"
+	},
+	{
+		"name": "Sir Daniel Wilson Residence",
+		"code": "SD",
+		"address": "73 St. George Street, M5S 2E5"
+	},
+	{
+		"name": "Soldiers' Tower",
+		"code": "TR",
+		"address": "7 Hart House Circle, M5S 3H3"
+	},
+	{
+		"name": "Spadina Ave-455",
+		"code": "TT",
+		"address": "455 Spadina Avenue, M5S 2G8"
+	},
+	{
+		"name": "Spadina Ave-713",
+		"code": "SA",
+		"address": "713 Spadina Avenue, M5S 2J4"
+	},
+	{
+		"name": "Spadina Avenue-665",
+		"code": "XG",
+		"address": "665 Spadina Avenue"
+	},
+	{
+		"name": "Spadina Avenue-703",
+		"code": "IA",
+		"address": "703 Spadina Avenue, M5S 2J4"
+	},
+	{
+		"name": "Spadina Avenue-720" ,
+		"code": "FA",
+		"address": "720 Spadina Avenue, M5S 2T9"
+	},
+	{
+		"name": "St. Basil's Church",
+		"code": "BS",
+		"address": "50 St. Joseph Street, M5S IJ4"
+	},
+	{
+		"name": "St. George Street-121",
+		"code": "IR",
+		"address": "121 St. George Street, M5S 2E8"
+	},
+	{
+		"name": "St. George Street-123",
+		"code": "WA",
+		"address": "123 St. George Street, M5S 2E8"
+	},
+	{
+		"name": "St. George Street-162",
+		"code": "CO",
+		"address": "162 St. George Street"
+	},
+	{
+		"name": "St. George Street-45",
+		"code": "PG",
+		"address": "45 St. George Street, M5S 2E5"
+	},
+	{
+		"name": "St. Hilda's College",
+		"code": "HI",
+		"address": "44 Devonshire Place, M5S 2E2"
+	},
+	{
+		"name": "Stephenson House",
+		"code": "SN",
+		"address": "63 Charles Street West, M5S 1K5"
+	},
+	{
+		"name": "Stewart Building",
+		"code": "EP",
+		"address": "149 College Street, M5T 1P5"
+	},
+	{
+		"name": "Student Commons",
+		"code": "CM",
+		"address": "230 College Street, M5T 1R2"
+	},
+	{
+		"name": "Sullivan House",
+		"code": "SV",
+		"address": "96 St. Joseph Street"
+	},
+	{
+		"name": "Sussex Avenue-40",
+		"code": "SU",
+		"address": "40 Sussex Avenue, M5S 1J7"
+	},
+	{
+		"name": "Sussex Court",
+		"code": "SC",
+		"address": "21 Sussex Avenue, M5S 1J6"
+	},
+	{
+		"name": "Teefy Hall",
+		"code": "TF",
+		"address": "57 Queen's Park Crescent East, M5S 2C4"
+	},
+	{
+		"name": "Terrence Donnelly Ctr for Cellular & Biomolecular Res",
+		"code": "DC",
+		"address": "160 College Street, M5S 3E1"
+	},
+	{
+		"name": "Thomas Fisher Rare Book Library Building",
+		"code": "RB",
+		"address": "120 St. George Street, M5S 1A5"
+	},
+	{
+		"name": "Toronto School of Theology",
+		"code": "TH",
+		"address": "47 Queen's Park Crescent East, M5S 2C3"
+	},
+	{
+		"name": "Trinity College",
+		"code": "TC",
+		"address": "6 Hoskin Avenue, M5S 1H8"
+	},
+	{
+		"name": "TWH - Krembil Discovery Tower",
+		"code": "KT",
+		"address": "399 Bathurst Street"
+	},
+	{
+		"name": "University College",
+		"code": "UC",
+		"address": "15 King's College Circle, M5S 3H7"
+	}, 
+	{
+		"name": "University College Union",
+		"code": "UP",
+		"address": "79 St. George Street, M5S 2E5"
+	},
+	{
+		"name": "Varsity Centre",
+		"code": "VA",
+		"address": "299 Bloor Street West"
+	},
+	{
+		"name": "Varsity Pavilion",
+		"code": "VP",
+		"address": "299 Bloor Street West"
+	},
+	{
+		"name": "Victoria College",
+		"code": "VC",
+		"address": "91 Charles Street West, M5S 1K7"
+	},
+	{
+		"name": "Wallberg Building" ,
+		"code": "WB",
+		"address": "184-200 College Street, M5S 3E5"
+	},
+	{
+		"name": "Warren Stevens Building",
+		"code": "WS",
+		"address": "55 Harbord Street, M5S 2W6"
+	},
+	{
+		"name": "Wellesley Street West-90",
+		"code": "JP",
+		"address": "90 Wellesley Street West, M5S 1C5"
+	},
+	{
+		"name": "Wetmore Hall-New College",
+		"code": "WE",
+		"address": "300 Huron Street, M5S 2Z3"
+	},
+	{
+		"name": "Whitney Hall",
+		"code": "WT",
+		"address": "85 St. George Street, M5S 2E5"
+	},
+	{
+		"name": "Wilson Hall-New College",
+		"code": "WI",
+		"address": "40 Willcocks Street, M5S 1C6"
+	},
+	{
+		"name": "Windle House",
+		"code": "WN", 
+		"address": "5 Elmsley Place"
+	},
+	{
+		"name": "Woodsworth College",
+		"code": "WW",
+		"address": "119 St. George Street, M5S 1A9"
+	},
+	{
+		"name": "Woodsworth College Residence",
+		"code": "WO",
+		"address": "321 Bloor St. West, M5S 1S5"
+	},
+	{
+		"name": "Wycliffe College",
+		"code": "WY",
+		"address": "5 Hoskin Avenue, M5S 1H7"
+	}
+	]
+}

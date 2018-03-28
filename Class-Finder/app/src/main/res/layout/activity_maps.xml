@@ -1,0 +1,35 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <fragment
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/map"
+        tools:context=".MapsActivity"
+        android:name="com.google.android.gms.maps.SupportMapFragment" />
+
+    <Button
+        android:id="@+id/bt_route"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Route" />
+
+    <Spinner
+        android:id="@+id/day_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bt_route"
+        android:entries="@array/day_array"/>
+
+    <Button
+        android:id="@+id/bt_refresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/day_spinner"
+        android:text="refresh" />
+
+</RelativeLayout>
